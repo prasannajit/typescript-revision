@@ -1,2 +1,0 @@
-# typescript-revision
-typescript practice
